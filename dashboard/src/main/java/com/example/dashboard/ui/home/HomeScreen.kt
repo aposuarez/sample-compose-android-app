@@ -12,8 +12,6 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
 import com.example.common.ui.theme.AppTheme
-import com.example.dashboard.navigation.DashboardRoute
-import com.example.dashboard.ui.DashboardScreen
 
 @Composable
 fun HomeScreen() {

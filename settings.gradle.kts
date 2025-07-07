@@ -24,3 +24,4 @@ include(":app")
 include(":common")
 include(":dashboard")
 
+include(":authentication")
